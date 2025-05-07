@@ -1,4 +1,4 @@
-# Olá, Mundo! 👋 Eu sou DM Diogo
+# Olá! 👋 Eu sou DM Diogo
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+FullStack+Junior;Apaixonado+por+Tecnologia;Sempre+aprendendo+novas+habilidades&center=true&width=380&height=45" alt="Digitação">
