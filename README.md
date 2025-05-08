@@ -33,12 +33,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMDiogo&layout=compact&theme=tokyonight" alt="Top Languages" height="150">
 </div>
 
-## 🏆 Contribuições
-
-<div align="center">
-  <img src="https://github.com/DMDiogo/DMDiogo/blob/output/github-contribution-grid-snake-dark.svg" alt="Animação de Contribuição">
-</div>
-
 ## 🔗 Conecte-se Comigo
 
 <div align="center">
