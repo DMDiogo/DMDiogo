@@ -29,8 +29,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DMDiogo&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMDiogo&layout=compact&theme=tokyonight" alt="Top Languages" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=DMDiogo&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMDiogo&layout=compact&theme=tokyonight" alt="Top Languages" height="150">
 </div>
 
 ## 🏆 Contribuições
